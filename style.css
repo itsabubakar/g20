@@ -355,6 +355,9 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
   text-transform: capitalize;
+  background: linear-gradient(to top,#000046, #1cb5e0);
+  color: #fff;
+
 }
 
 .company-info {
